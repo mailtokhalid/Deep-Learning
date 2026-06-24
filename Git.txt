@@ -1,0 +1,9 @@
+1. git status
+2. git init
+3. git add .
+4. git remote add origin https://github.com/mailtokhalid/repository.git
+5. git commit -m "ML Refresher Course"
+6. git push --force origin main
+
+git branch - Check branch
+git checkout main - Switch branch

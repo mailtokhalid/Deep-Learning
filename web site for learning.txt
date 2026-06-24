@@ -1,0 +1,19 @@
+hi court Guru - guideline platform.
+
+Confusion Matrix:
+ [[  94  457]
+ [ 183 1066]]
+
+Structure
+                Predicted
+              No      Yes
+Actual No      94      457
+Actual Yes    183     1066
+
+
+🔍 Meaning
+Metric	Value	Interpretation
+TN = 94	✅ correctly rejected risky customers	
+FP = 457	❌ risky customers approved (HIGH)	
+FN = 183	❌ good customers rejected	
+TP = 1066	✅ good customers approved
